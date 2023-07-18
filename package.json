@@ -1,0 +1,25 @@
+{
+  "name": "template",
+  "version": "0.0.0",
+  "description": "vscode template for C++",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jiayuancs/template.git"
+  },
+  "keywords": [
+    "vscode",
+    "template",
+    "C++"
+  ],
+  "author": "jiayuancs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiayuancs/template/issues"
+  },
+  "homepage": "https://github.com/jiayuancs/template#readme"
+}
