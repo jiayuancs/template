@@ -1,3 +1,10 @@
 # template
 
-- vscode template for C++
+## branch
+
+- cpp
+  - vscode template for C++
+- linux
+  - shell configuration
+  - vim configuration
+  - npm configuration
